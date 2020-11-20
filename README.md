@@ -11,3 +11,6 @@ This repository contains material from the quantum computing course.
 ```bash
 python bell.py
 ```
+```bash
+python deutsch-jozsa.py
+```
